@@ -1,4 +1,4 @@
-Server ID: 167d765e
+Server ID: Unknown
 Renew status: Failed
-Last renewal time: 2024-12-19 12:53:51
-Error: Time not extended
+Last renewal time: 2024-12-21 01:24:15
+Error: An error occurred: Failed to reach dashboard
