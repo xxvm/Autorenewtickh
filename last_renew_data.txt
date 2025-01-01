@@ -1,4 +1,4 @@
 Server ID: 167d765e
-Renew status: Success
-Last renewal time: 2024-12-29 01:41:28
-New expiration time: 2025-01-10 12:32:01
+Renew status: Failed
+Last renewal time: 2025-01-01 01:41:49
+Error: Time not extended
